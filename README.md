@@ -36,3 +36,8 @@ Figure 2.1-Block diagram
 
 ![image](https://user-images.githubusercontent.com/57592824/151653224-73712a00-d990-4bce-a3e9-0e54e75fc11a.png)
 
+Screens of the APP Made using MIT APP INVENTOR for this home securit Project
+![Screenshot_2021-10-26-17-23-22-894_appinventor ai_brohari740 HSS_Proji_Second_review2](https://user-images.githubusercontent.com/57592824/151653400-2e163d0c-376d-46e2-a9e2-b397431bedec.jpg)
+
+
+
